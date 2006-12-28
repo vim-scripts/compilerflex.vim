@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1746
+
+A simple Vim compiler plugin to run ':make' for Adobe Flex 2 MXML files.
+Currently, it works only with 'mxmlc'.
